@@ -10,10 +10,10 @@ This is a simple full-stack project where the backend is built using Django and 
 ### If you want to test or learn then -
 - Clone the Repository
 ```bash
-git clone https://github.com/hasdajustin/django-rest-framework-Test1-.git
+git clone https://github.com/hasdajustin/django-rest-framework-1.git
 ```
 ```bash
-cd django-rest-framework-Test1
+cd django-rest-framework-1
 ```
 
 ### Install dependencies and run backend server
