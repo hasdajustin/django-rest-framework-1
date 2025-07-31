@@ -4,6 +4,7 @@ This is a simple full-stack project where the backend is built using Django and 
 
 ## Tech Stack
 - Backend - Django
+- Rest Api - Django rest framework
 - Frontend - React
 
 ### If you want to test or learn then -
@@ -43,6 +44,7 @@ python manage.py runserver
 ### How to Test
 1. Go to: http://127.0.0.1:8000/admin/  
    - Login with your admin credentials.
+   - add product
 
 2. Go to: http://127.0.0.1:8000/api/products/  
    - You can see the product data returned as JSON.
