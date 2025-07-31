@@ -59,6 +59,7 @@ npm install
 ```bash
 npm start
 ```
+1. visit: http://localhost:3000/ 
 
 ### Prerequisites
 - Make sure **Python** and **Node.js** are installed on your machine to run the Django and React applications.
